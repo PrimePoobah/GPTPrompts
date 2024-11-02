@@ -41,5 +41,3 @@ This project is licensed under the GPL-3.0 License. See the `LICENSE` file for m
 For any questions or suggestions, feel free to open an issue or contact the repository owner.
 
 Happy prompting!
-
-```
